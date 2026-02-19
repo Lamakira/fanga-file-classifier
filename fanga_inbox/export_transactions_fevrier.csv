@@ -1,0 +1,14 @@
+date,conducteur_id,station,type_transaction,montant
+2024-02-01,CD-001,Cocody,swap,1250
+2024-02-01,CD-003,Plateau,swap,1250
+2024-02-02,CD-005,Yopougon,swap,1250
+2024-02-03,CD-002,Cocody,recharge,500
+2024-02-04,CD-007,Marcory,swap,1250
+2024-02-05,CD-001,Cocody,swap,1250
+2024-02-06,CD-004,Plateau,swap,1250
+2024-02-07,CD-006,Treichville,recharge,500
+2024-02-08,CD-003,Cocody,swap,1250
+2024-02-09,CD-008,Adjame,swap,1250
+2024-02-10,CD-002,Yopougon,swap,1250
+2024-02-11,CD-005,Plateau,recharge,500
+2024-02-12,CD-001,Marcory,swap,1250
