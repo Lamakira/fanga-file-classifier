@@ -1,0 +1,7 @@
+openai
+python-docx
+openpyxl
+pdfplumber
+python-dotenv
+Pillow
+reportlab
