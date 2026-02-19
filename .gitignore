@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+fanga_organised/
+logs/
+rapport_traitement.json
+.venv/
+.idea/
